@@ -17,15 +17,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 **Desktop Version:**
 
-![1710779631935](images/1710779526167.png)
+![1710779631935](images/1710779595033.png)
 
 **Mobile Version:**
 
-![1710779707113](images/1710779595033.png)
+![1710779707113](images/1710779526167.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: 
 - Live Site URL: https://ubiquitous-peony-5136d7.netlify.app/
 
 ## My process
